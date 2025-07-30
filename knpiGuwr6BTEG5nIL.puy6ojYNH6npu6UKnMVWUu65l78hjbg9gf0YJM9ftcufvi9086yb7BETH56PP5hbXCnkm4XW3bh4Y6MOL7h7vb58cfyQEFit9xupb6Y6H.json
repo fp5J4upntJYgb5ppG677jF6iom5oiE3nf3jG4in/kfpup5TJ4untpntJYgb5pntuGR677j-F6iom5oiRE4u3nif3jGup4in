@@ -1,5 +1,16 @@
 {
-  "new_version": "2.1.5",
-  "force_update": true ,
-  "message_dialog": "الإصدار الجديد 2.13.5 متوفر. هل تريد التحديث الآن؟",
-  "what_new": "the new features include performance improvements and bug fixes."}
+  "updates": [
+    {
+      "new_version": "2.1.5",
+      "force_update": true,
+      "message_dialog": "الإصدار الجديد 2.1.5 متوفر. هل تريد التحديث الآن؟",
+      "what_new": "..."
+    },
+    {
+      "new_version": "2.1.6",
+      "force_update": false,
+      "message_dialog": "تم تحسين الأداء في هذه النسخة",
+      "what_new": "..."
+    }
+  ]
+}
